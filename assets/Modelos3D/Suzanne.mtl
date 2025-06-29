@@ -1,0 +1,9 @@
+# Material file for Suzanne.obj
+# Material fosco (cerâmica/borracha vermelha)
+
+newmtl SuzanneMaterial
+Ka 0.3 0.1 0.1
+Kd 0.9 0.4 0.3
+Ks 0.1 0.1 0.1
+Ns 2.0
+illum 2 

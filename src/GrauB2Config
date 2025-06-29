@@ -1,0 +1,10 @@
+CAMERA 0.0 25.0 45.0 0.0 0.0 0.0 75.0
+
+LIGHT1 20.0 30.0 20.0 1.5
+LIGHT2 -25.0 15.0 15.0 0.9
+LIGHT3 0.0 20.0 -40.0 1.1
+
+OBJECT ../assets/drift-race-track-free/source/DriftTrack3.obj 0.0 0.0 0.0 0.0 0.0 0.0 1.0 1.0 1.0 Asphalt
+
+ANIMATION track
+OBJECT ../assets/2022-yamaha-r1/source/2022 Yamaha R1/2022 Yamaha R1.obj 12.0 0.8 -8.0 -90.0 90.0 0.0 1.2 1.2 1.2 Front_End

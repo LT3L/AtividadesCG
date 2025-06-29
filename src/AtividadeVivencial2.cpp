@@ -134,7 +134,7 @@ GLuint createSimpleVAO(const std::vector<vec3>& vertices, const std::vector<vec2
 void drawGeometry(GLuint shaderID, GLuint VAO, vec3 position, vec3 dimensions, float angle, int nVertices, vec3 color= vec3(1.0,0.0,0.0), vec3 axis = (vec3(0.0, 0.0, 1.0)));
 
 // Dimensões da janela (pode ser alterado em tempo de execução)
-const GLuint WIDTH = 1080, HEIGHT = 1080;
+const GLuint WIDTH = 2880, HEIGHT = 1800;
 
 bool light1Enabled = true;
 bool light2Enabled = true;

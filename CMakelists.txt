@@ -47,6 +47,7 @@ set(EXERCISES
     Hello3D
     AtividadeVivencial1
     AtividadeVivencial2
+    GrauB2
 )
 
 add_compile_options(-Wno-pragmas)
